@@ -1,0 +1,13 @@
+#main-container{
+    display:grid;
+}
+#left-sidebar{
+    display: grid;
+    row-gap: 40px;
+}
+.sidebar-links
+{
+    display: grid;
+    row-gap: 20px;
+    list-style-type: none;
+}
