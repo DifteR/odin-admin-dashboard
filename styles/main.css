@@ -83,3 +83,9 @@ aside{
     color:var(--accent2);
     font-weight: bold;
 }
+.textbox{
+    background-color: var(--accent2);
+    border-radius: 15px;
+    margin: 10px;
+    border-left: solid 8px var(--secondary);
+}
